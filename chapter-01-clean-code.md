@@ -11,6 +11,12 @@ Improvement to make processes faster? Good and clean code. But what exactly is C
 **Stroustrup(C++ inventor):** Elegant, efficient, straightforward, not tempting to be messy
 <br>
 Important take: You cannot write code if you cannot read the surrounding code. If you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.
+<br>
+<br>
+## Principles
+- Single Responsibility Principle (SRP)
+- Open Closed Principle (OCP)
+- Dependency Inversion Principle (DIP)
 ## Before
 
 ## After
