@@ -6,8 +6,8 @@ It is really important to find good names for everything. There are some rules a
 
 <br>
 Example for 1.)
-´´´java
+```java
 int d; // elapsed time in days
 
 int elapsedTimeInDays;
-´´´
+```
